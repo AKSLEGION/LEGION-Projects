@@ -1,0 +1,1 @@
+users = {'8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918': {'password': 'f66880edc88b756cf2823c4b5fb7b9189dc630eff3f137569284a1c7f61d93c2', 'wins': 0, 'losses': 0}}

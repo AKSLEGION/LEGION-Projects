@@ -68,6 +68,7 @@ while True:
             omit.remove(display.upper())
             omit.remove(display.lower())
         lives = 6
+        guessed = set([])
         while True:
             if not lives:
                 death()
