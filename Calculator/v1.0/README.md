@@ -7,13 +7,13 @@ A basic Calculator with basic arithmetic functions and access to previous result
 ## Functionalities
 
 1. Expression Solving: Takes an expression as input and returns is value as result.
-	Can perform:
+	- Can perform:
 		- Addition
 		- Subtraction
 		- Multiplication
 		- Division
 	
-	Handles:
+	- Handles:
 		- Brackets in expression
 2. Access to previous result: Can use result from the previous expression in the new expression as 'ans'.
 
@@ -41,4 +41,4 @@ A basic Calculator with basic arithmetic functions and access to previous result
 
 - Exception Handling:
 	- It is checked at the beginning if the expression contains any non-numeric character or operator/bracket which is not implemented.
-	- If the expression is invalid, the op_stack will not reduce to just one number.
+	- If the expression is invalid, the `op_stack will` not reduce to just one number.
